@@ -3,7 +3,7 @@
 int main(void)
 {
     int arr1[20], arr2[20];
-    int *p, *pa, *pb, N;
+    int *p= nullptr, *pa= nullptr, *pb= nullptr, N;
 
     scanf("%d", &N);
 
